@@ -2,7 +2,7 @@ name: .NET
 
 on:
   push:
-    branches: [ "feature_customvalidators" ]
+    branches: [ "master" ]
 
 jobs:
   build:
